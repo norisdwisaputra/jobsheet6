@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">noris</string>
+    <string name="input_tinggi" />
+    <string name="result">result</string>
+    <string name="hitung">hitung</string>
+    <string name="panjang">panjang</string>
+</resources>
